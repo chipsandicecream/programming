@@ -12,6 +12,7 @@ Sommige mensen vinden dat Ada Lovelace het eerste programmeur was, maaar sommige
 programmeertaal. Het is heel moeilijk om in machinetaal te schrijven, daarom hebben mensen hogere programmertalen gemaakt. Hogere programmeertalen zijn programeer 
 talen die verder weg zijn van machinetaal een hele hoge programmeertaal zou heel anders zijn machinetaal, maar eentje die niet heel hoog is dichterbij machinetaal. 
 Een van de eerste hogere programmeertalen was Plankalkül. Die in 1946 ontwikkeld werd door de Duitser Konrad Zuse.
+Er zijn duizenden programmeertalen en er comen steeds meer bij, maar ook veel zijn niet meer gebruikt. 
 > generation programming
 
 # ***Een beetje programmeren***                      
