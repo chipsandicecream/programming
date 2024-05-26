@@ -13,6 +13,9 @@ programmeertaal. Het is heel moeilijk om in machinetaal te schrijven, daarom heb
 talen die verder weg zijn van machinetaal een hele hoge programmeertaal zou heel anders zijn machinetaal, maar eentje die niet heel hoog is dichterbij machinetaal. 
 Een van de eerste hogere programmeertalen was Plankalkül. Die in 1946 ontwikkeld werd door de Duitser Konrad Zuse.
 Er zijn duizenden programmeertalen en er comen steeds meer bij, maar ook veel zijn niet meer gebruikt. 
+
+
+alles met een computer heeft software, en software, dat moet geprogrammeerd worden. een keyboard heeft software, een auto heeft software, een nintendo, een assassa playstation, een telefoon heeft software
 > generation programming
 
 # ***Een beetje programmeren***                      
@@ -25,6 +28,7 @@ ja, dat is waar, en als je `annuleren` klikt bedoelt dat nee, dat is niet waar. 
 `(:`.
  Door `: alert("DAT IS HET WEL!!!!!!")` zeg jij dat als iemand `annuleren` klikt zegt de computer 
 `DAT IS HET WEL!!!!!!`
+
 klik nu enter. 😃 [^10].
 [^3]: _machinetaal is de enen en nullen die een computer direct verstaat_
 [^1]: _Mnemonic betekent:  (volgens [wikipedia](https://nl.wikipedia.org/wiki/Mnemonic)): Het Engelse woord mnemonic (meervoud: mnemonics) wordt voor diverse geheugensteuntjes gebruikt die gangbaar zijn binnen de mnemotechniek. Zo wordt het woord in de informatica gebruikt voor een woord of symbool dat dient ter vervanging van een binaire instructie. Het wordt vooral gebruikt om het programmeren in assembly makkelijker te maken._
