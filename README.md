@@ -1,3 +1,4 @@
+
 # Programmeren
 
 Wat is programmeren eigenlijk?
@@ -8,11 +9,15 @@ Programeertalen gebruiken deze alfabet, maar toch is het veel anders.
 Om iets te programmeren moet je ***heeeeeeel***    specifiek zijn met wat je schrijft, en je moet symbolen en nummers gebruiken. 
 
 # geschidenis van programmeren
+
 Sommige mensen vinden dat Ada Lovelace het eerste programmeur was, maaar sommige niet, omdat zij direct in machinetaal[^3] schreef, en niet in een hogere 
 programmeertaal. Het is heel moeilijk om in machinetaal te schrijven, daarom hebben mensen hogere programmertalen gemaakt. Hogere programmeertalen zijn programeer 
 talen die verder weg zijn van machinetaal een hele hoge programmeertaal zou heel anders zijn machinetaal, maar eentje die niet heel hoog is dichterbij machinetaal. 
 Een van de eerste hogere programmeertalen was Plankalkül. Die in 1946 ontwikkeld werd door de Duitser Konrad Zuse. Nog iemand wie heel intressant was in het geschidenis van programmeren is _grace hopper_, zij heeft namelijk de **compiler** uitgevonden in 1951. dat vertaalt hogere programmeertalen naar machinetaal. Bij het werk van Grace bij het Mark II, een oude computer, merkte zij dat het computer hele voute antwoorden aan het geven was en gingen erin kijken, en opeens zagen ze een mot! toen ze het eruit haalde merkte grace dat ze de computer aan het debuggen waren.
 
+![ ](https://cdn.britannica.com/94/149294-050-1BDE70C7/Grace-Hopper-1984.jpg)
+![ ](https://emprendedor.com/wp-content/uploads/2022/12/ada-lovelace.jpg)
+![ ](https://live.staticflickr.com/572/20607150556_c01d092437_b.jpg)
 
 # ***Een beetje programmeren***                      
 Druk `ctrl+shift+i` schrijf  nu in console:
