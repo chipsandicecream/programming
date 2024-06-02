@@ -21,9 +21,14 @@ ze een mot! toen ze het eruit haalde merkte grace dat ze de computer aan het deb
 
 - 1725 Basile Bouchon maakte een machine die patronen maakte door spcefieke gaten in papier
 - 1801 Joseph Jacques maakte een machine die met ponskaarten patronen op een weefgetouw kon maken.
-- 1834 Het Analytical Machine, een machine die programmeren en computers van nu heel erg beϊnvloedde
+- 1834 Het Analytical Machine, een machine die programmeren en computers van nu heel erg beϊnvloedde.
+- 1952 De Compiler, dat vertaalt hogere programeertalen naar machinetaal. Daardoor kun je iets ook op een andere computer doen.
+- 1959 COBOL, een van de eerste programmeertalen die op meerdere merken computers werd gebruikt.
+- 1989 World Wide Web (WWW), Tim Berners-Lee maakte de WWW zo dat mensen webpagina's (websites) met elkaar kon delen.
+  > FIRST AI!!@!@!@!
 
 
+ 
 ![ Ada Lovelace](https://emprendedor.com/wp-content/uploads/2022/12/ada-lovelace.jpg)
 ![ machinetaal ](https://live.staticflickr.com/572/20607150556_c01d092437_b.jpg)
 
@@ -33,7 +38,7 @@ december 9 1906 - januari 1 1992
 
 Grace Hopper werd in New York, America geboren. Ze was een nieuwschierige kind. En als ze iets niet snapte ging ze altijd onderzoeken en leren hoe het werkte. Later werd ze professor van rekenen en natuurkunde, maar tijdens Wereld Oorlog II ging ze naar het US Navy zoals haar opa en werkte daar op Mark I, een van de eerste computers. Die computer was zo groot dat het een hele kamer nodig had.
 De Mark I werd gebruikt om geheime berichten van de Nazi's in normale taal te zetten. 
-In 1949 heeft ze het eerste computer dat op het markt was gemaakt, de UNIVAC I. Later heeft ze in 1952 het eerste compiler gemaakt. Ze werd in December 15, 1983 een admiraal.
+In 1949 heeft ze het eerste computer dat op het markt was gemaakt, de UNIVAC I. Later heeft ze in 1952 het eerste compiler gemaakt. In 1959 heeft zij meegehulpen met COBOL te maken. Ze werd in December 15, 1983 een admiraal.
 
 ![ Grace hopper ](https://cdn.britannica.com/94/149294-050-1BDE70C7/Grace-Hopper-1984.jpg)
 ![ mark I](https://www.thoughtco.com/thmb/_do7pyKos10WYy7bfigMzGEula4=/1500x1201/filters:fill(auto,1)/GettyImages-107636032-5c76d38846e0fb0001a5ef90.jpg)
