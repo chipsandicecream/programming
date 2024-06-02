@@ -11,19 +11,12 @@ Om iets te programmeren moet je ***heeeeeeel***    specifiek zijn met wat je sch
 # geschidenis van programmeren
 
 Sommige mensen vinden dat Ada Lovelace het eerste programmeur was, maaar sommige niet, omdat zij direct in machinetaal[^3] schreef, en niet in een hogere 
-programmeertaal. Het is heel moeilijk om in machinetaal te schrijven, daarom hebben mensen hogere programmertalen gemaakt. Hogere programmeertalen zijn programeer 
-talen die verder weg zijn van machinetaal een hele hoge programmeertaal zou heel anders zijn machinetaal, maar eentje die niet heel hoog is dichterbij machinetaal. 
+programmeertaal. Het is heel moeilijk om in machinetaal te schrijven, daarom hebben mensen hogere programmertalen gemaakt.Hogere programeertalen zijn programeertalen die dichterbij menselijke denken zijn. En lagere programeertalen zijn programeertalen die dichterbij hoe een computer werkt zijn.
 Een van de eerste hogere programmeertalen was Plankalkül. Die in 1946 ontwikkeld werd door de Duitser Konrad Zuse. Nog iemand wie heel intressant was in het 
 geschidenis van programmeren is _grace hopper_, zij heeft namelijk de **compiler** uitgevonden in 1951. dat vertaalt hogere programmeertalen naar machinetaal. Bij 
 het werk van Grace bij het Mark II, een oude computer, merkte zij dat het computer hele voute antwoorden aan het geven was en gingen erin kijken, en opeens zagen 
 ze een mot! toen ze het eruit haalde merkte grace dat ze de computer aan het debuggen waren.
 
-
-Hogere programmeertalen zijn programeer talen die verder weg zijn van machinetaal een hele hoge programmeertaal zou heel anders zijn machinetaal, maar eentje die niet heel hoog is dichterbij machinetaal. 
-
-hogere programeertalen zijn programeertalen die dichterbij mensen taal zijn, hoe hoger, hoe dichterbij mensen taal.
-
-![ Grace hopper ](https://cdn.britannica.com/94/149294-050-1BDE70C7/Grace-Hopper-1984.jpg)
 ![ Ada Lovelace](https://emprendedor.com/wp-content/uploads/2022/12/ada-lovelace.jpg)
 ![ machinetaal ](https://live.staticflickr.com/572/20607150556_c01d092437_b.jpg)
 
@@ -31,10 +24,17 @@ hogere programeertalen zijn programeertalen die dichterbij mensen taal zijn, hoe
 # Grace Hopper
 december 9 1906 - januari 1 1992
 
-Grace Hopper werd in New York, America geboren. Ze was een nieuwschierige kind. En als ze iets niet snapte ging ze altijd onderzoeken en leren hoe het werkte. Later werd ze professor van rekenen en natuurkunde, maar tijdens Wereld Oorlog II ging ze naar het US Navy zoals haar opa en werkte daar op Mark I, een van de eerste computers. Die computer was zo groot dat het een hele kamer nodig had
+Grace Hopper werd in New York, America geboren. Ze was een nieuwschierige kind. En als ze iets niet snapte ging ze altijd onderzoeken en leren hoe het werkte. Later werd ze professor van rekenen en natuurkunde, maar tijdens Wereld Oorlog II ging ze naar het US Navy zoals haar opa en werkte daar op Mark I, een van de eerste computers. Die computer was zo groot dat het een hele kamer nodig had.
+De Mark I werd gebruikt om geheime berichten van de Nazi's in normale taal te zetten. 
+In 1949 heeft ze het eerste computer dat op het markt was gemaakt, de UNIVAC I. Later heeft ze in 1952 het eerste compiler gemaakt. Ze werd in December 15, 1983 een admiraal.
 
+![ Grace hopper ](https://cdn.britannica.com/94/149294-050-1BDE70C7/Grace-Hopper-1984.jpg)
+![ mark I](https://www.thoughtco.com/thmb/_do7pyKos10WYy7bfigMzGEula4=/1500x1201/filters:fill(auto,1)/GettyImages-107636032-5c76d38846e0fb0001a5ef90.jpg)
 
 # AI 
+
+
+
 
 # ***Een beetje programmeren***                      
 Druk `ctrl+shift+i` schrijf  nu in console:
