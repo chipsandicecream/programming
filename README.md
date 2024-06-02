@@ -21,7 +21,7 @@ ze een mot! toen ze het eruit haalde merkte grace dat ze de computer aan het deb
 
 - 1725 Basile Bouchon maakte een machine die patronen maakte door spcefieke gaten in papier
 - 1801 Joseph Jacques maakte een machine die met ponskaarten patronen op een weefgetouw kon maken.
-- 
+- 1834 Het Analytical Machine, een machine die programmeren en computers van nu heel erg beϊnvloedde
 
 
 ![ Ada Lovelace](https://emprendedor.com/wp-content/uploads/2022/12/ada-lovelace.jpg)
