@@ -31,7 +31,8 @@ hogere programeertalen zijn programeertalen die dichterbij mensen taal zijn, hoe
 # Grace Hopper
 december 9 1906 - januari 1 1992
 
-Grace Hopper werd in New York, America geboren. Ze was een nieuwschierige kind. En als ze iets niet snapte ging ze altijd onderzoeken en leren hoe het werkte. Later werd ze professor van rekenen en natuurkunde, maar tijdens Wereld Oorlog II ging ze naar het US Navy zoals haar opa en werkte daar op Mark I
+Grace Hopper werd in New York, America geboren. Ze was een nieuwschierige kind. En als ze iets niet snapte ging ze altijd onderzoeken en leren hoe het werkte. Later werd ze professor van rekenen en natuurkunde, maar tijdens Wereld Oorlog II ging ze naar het US Navy zoals haar opa en werkte daar op Mark I, een van de eerste computers. Die computer was zo groot dat het een hele kamer nodig had
+
 
 # AI 
 
