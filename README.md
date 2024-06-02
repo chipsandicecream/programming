@@ -17,6 +17,13 @@ geschidenis van programmeren is _grace hopper_, zij heeft namelijk de **compiler
 het werk van Grace bij het Mark II, een oude computer, merkte zij dat het computer hele voute antwoorden aan het geven was en gingen erin kijken, en opeens zagen 
 ze een mot! toen ze het eruit haalde merkte grace dat ze de computer aan het debuggen waren.
 
+### een tijdlijn van programmeren geschiedenis
+
+- 1725 Basile Bouchon maakte een machine die patronen maakte door spcefieke gaten in papier
+- 1801 Joseph Jacques maakte een machine die met ponskaarten patronen op een weefgetouw kon maken.
+- 
+
+
 ![ Ada Lovelace](https://emprendedor.com/wp-content/uploads/2022/12/ada-lovelace.jpg)
 ![ machinetaal ](https://live.staticflickr.com/572/20607150556_c01d092437_b.jpg)
 
