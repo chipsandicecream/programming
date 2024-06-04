@@ -36,8 +36,9 @@ ze een mot! toen ze het eruit haalde merkte grace dat ze de computer aan het deb
 # Grace Hopper
 december 9 1906 - januari 1 1992
 
-Grace Hopper werd in New York, America geboren. Ze was een nieuwschierige kind. En als ze iets niet snapte ging ze altijd onderzoeken en leren hoe het werkte. Later werd ze professor van rekenen en natuurkunde, maar tijdens Wereld Oorlog II ging ze naar het US Navy zoals haar opa en werkte daar op Mark I, een van de eerste computers. Die computer was zo groot dat het een hele kamer nodig had.
-De Mark I werd gebruikt om geheime berichten van de Nazi's in normale taal te zetten. 
+Grace Hopper werd in New York, America geboren. Ze was een nieuwschierige kind. En als ze iets niet snapte ging ze altijd onderzoeken en leren hoe het werkte. Later werd ze professor van rekenen en natuurkunde, 
+maar tijdens Wereld Oorlog II ging ze naar het US Navy zoals haar opa en werkte daar op Mark I, een van de eerste computers. Die computer was zo groot dat het een hele kamer nodig had. De Mark I werd gebruikt om 
+geheime berichten van de Nazi's in normale taal te zetten. 
 In 1949 heeft ze het eerste computer dat op het markt was gemaakt, de UNIVAC I. Later heeft ze in 1952 het eerste compiler gemaakt. In 1959 heeft zij meegehulpen met COBOL te maken. Ze werd in December 15, 1983 een admiraal.
 
 ![ Grace hopper ](https://cdn.britannica.com/94/149294-050-1BDE70C7/Grace-Hopper-1984.jpg)
@@ -46,7 +47,9 @@ In 1949 heeft ze het eerste computer dat op het markt was gemaakt, de UNIVAC I. 
 # AI 
 wat zijn AIs?
 
-AIs zijn lerende programma's. ze kunnen schaken, dammen, maar... hoe? AIs moeten kunnen leren, duslaten we zeggen dat ik een AI maak die kan schaken. Als ik dat doe programmeer ik het niet zo dat het heel goed kan schaken, maar programmeer ik het zodat het goed kan leren, en zodat het de regels van schaken weet. Daardoor start het uit slecht, zoals een mens. Maar, het leert van elke potje schaken dat je speelt. Als ik dat nog een keer doe, maar ik programmeer ik het zo dat het heel goed kan schaken, en niet het zodat het kan leren, is het geen AI meer. Dan is het maar een programma die instructies volgt. 
+AIs zijn lerende programma's. ze kunnen schaken, dammen, maar... hoe? AIs moeten kunnen leren, duslaten we zeggen dat ik een AI maak die kan schaken. Als ik dat doe programmeer ik het niet zo dat het heel goed 
+kan schaken, maar programmeer ik het zodat het goed kan leren, en zodat het de regels van schaken weet. Daardoor start het uit slecht, zoals een mens. Maar, het leert van elke potje schaken dat je speelt. Als ik 
+dat nog een keer doe, maar ik programmeer ik het zo dat het heel goed kan schaken, en niet het zodat het kan leren, is het geen AI meer. Dan is het maar een programma die instructies volgt. 
 
 
 
