@@ -47,14 +47,12 @@ In 1949 heeft ze het eerste computer dat op het markt was gemaakt, de UNIVAC I. 
 # AI 
 wat zijn AIs?
 
-AIs zijn lerende programma's. ze kunnen schaken, dammen, maar... hoe? AIs moeten kunnen leren, duslaten we zeggen dat ik een AI maak die kan schaken. Als ik dat doe programmeer ik het niet zo dat het heel goed 
-kan schaken, maar programmeer ik het zodat het goed kan leren, en zodat het de regels van schaken weet. Daardoor start het uit slecht, zoals een mens. Maar, het leert van elke potje schaken dat je speelt. Als ik 
-dat nog een keer doe, maar ik programmeer ik het zo dat het heel goed kan schaken, en niet het zodat het kan leren, is het geen AI meer. Dan is het maar een programma die instructies volgt. 
+AIs zijn lerende programma's. ze kunnen schaken, dammen, maar... hoe? AIs moeten kunnen leren, dus laten we zeggen dat ik een AI maak die kan schaken. Als ik dat doe programmeer ik het niet zo dat het heel goed kan schaken, maar programmeer ik het zodat het goed kan leren, en zodat het de regels van schaken weet. Daardoor start het uit als een beginner, zoals een mens. Maar, het leert van elke potje schaken dat je speelt, en wordt beter. Als ik dat nog een keer doe, maar ik programmeer ik het zo dat het heel goed kan schaken, en niet het zodat het kan leren, is het geen AI meer. Dan is het maar een programma die instructies volgt. 
+
+   ...Maar kan een programma denken? AI staat voor Artificiële Intelligentie, ook Kunstmatige Intelligentie genoemd. Maar is een compiter intelligent? Daarvoor is de Turing Test, waarin persoon nummer 1 en de AI antwoorden geven op vragen gesteld door persoon nummer 2. Persoon 2 weet niet van wie welke atwoorden zijn, en moet raden. Als persoon 2 niet weet welke antwoorden van de machine comen, kan de AI denken. veel mensen denken dat dit niet zou werken, omdat als een computer beantworden kan geven zoals een mens, dan is het toch geen mens? Maar sommige mensen zeggen dat Turing bedoelde dat
 
 
 
-
- 
 # ***Een beetje programmeren***                      
 Druk `ctrl+shift+i` schrijf  nu in console:
 ```js
@@ -67,6 +65,13 @@ ja, dat is waar, en als je `annuleren` klikt bedoelt dat nee, dat is niet waar. 
 `DAT IS HET WEL!!!!!!`
 klik nu enter. 😃 [^10]. Deze stuk code (of iets daar dichtbij) zie je vaak op websites waar jij moet zelf moet opslaan als jij het tab probeer dicht te doen en 
 dan zie je "_als u deze tab dichtdoet dan verliest u alles wat niet opgeslagen is._" en dan heb jij alweer annuleren en ok maar ze menen andere dingen.
+
+
+
+
+
+
+
 [^3]: _machinetaal is de enen en nullen die een computer direct verstaat_
 [^1]: _Mnemonic betekent:  (volgens [wikipedia](https://nl.wikipedia.org/wiki/Mnemonic)): Het Engelse woord mnemonic (meervoud: mnemonics) wordt voor diverse 
 geheugensteuntjes gebruikt die gangbaar zijn binnen de mnemotechniek. Zo wordt het woord in de informatica gebruikt voor een woord of symbool dat dient ter 
