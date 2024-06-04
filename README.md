@@ -44,10 +44,14 @@ In 1949 heeft ze het eerste computer dat op het markt was gemaakt, de UNIVAC I. 
 ![ mark I](https://www.thoughtco.com/thmb/_do7pyKos10WYy7bfigMzGEula4=/1500x1201/filters:fill(auto,1)/GettyImages-107636032-5c76d38846e0fb0001a5ef90.jpg)
 
 # AI 
+wat zijn AIs?
+
+AIs zijn lerende programma's. ze kunnen schaken, dammen, maar... hoe? AIs moeten kunnen leren, duslaten we zeggen dat ik een AI maak die kan schaken. Als ik dat doe programmeer ik het niet zo dat het heel goed kan schaken, maar programmeer ik het zodat het goed kan leren, en zodat het de regels van schaken weet. Daardoor start het uit slecht, zoals een mens. Maar, het leert van elke potje schaken dat je speelt. Als ik dat nog een keer doe, maar ik programmeer ik het zo dat het heel goed kan schaken, en niet het zodat het kan leren, is het geen AI meer. Dan is het maar een programma die instructies volgt. 
 
 
 
 
+ 
 # ***Een beetje programmeren***                      
 Druk `ctrl+shift+i` schrijf  nu in console:
 ```js
