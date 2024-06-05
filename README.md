@@ -3,12 +3,12 @@
 
 Wat is programmeren eigenlijk?
 
-Programmeren is hoe je een website, game, en nog veel meer maakt, door te vertellen wat een computer moet doen. Maar, het is best moeilijk, want een computer 
-kent geen Nederlands of Engels, je moet een programmeertaal gebruiken, zoals Javascript, Python, Ruby of een andere programmeertaal. 
+Programmeren is hoe je een website, game, en nog veel meer maakt, door te vertellen wat een computer moet doen. Maar het is best moeilijk, want een computer 
+kent geen Nederlands of Engels. je moet een programmeertaal gebruiken, zoals Javascript, Python, Ruby of een andere programmeertaal. 
 Programeertalen gebruiken deze alfabet, maar toch is het veel anders.
 Om iets te programmeren moet je ***heeeeeeel***    specifiek zijn met wat je schrijft, en je moet symbolen en nummers gebruiken. 
 
-# geschidenis van programmeren
+# geschiedenis van programmeren
 
 Sommige mensen vinden dat Ada Lovelace het eerste programmeur was, maaar sommige niet, omdat zij direct in machinetaal[^3] schreef, en niet in een hogere 
 programmeertaal. Het is heel moeilijk om in machinetaal te schrijven, daarom hebben mensen hogere programmertalen gemaakt.Hogere programeertalen zijn programeertalen die dichterbij menselijke denken zijn. En lagere programeertalen zijn programeertalen die dichterbij hoe een computer werkt zijn.
@@ -54,11 +54,11 @@ In 1949 heeft ze het eerste computer dat op het markt was gemaakt, de UNIVAC I. 
 ![ mark I](https://www.thoughtco.com/thmb/_do7pyKos10WYy7bfigMzGEula4=/1500x1201/filters:fill(auto,1)/GettyImages-107636032-5c76d38846e0fb0001a5ef90.jpg)
 
 # AI 
-wat zijn AIs?
+wat zijn AI's?
 
-AIs zijn lerende programma's. ze kunnen schaken, dammen, maar... hoe? AIs moeten kunnen leren, dus laten we zeggen dat ik een AI maak die kan schaken. Als ik dat doe programmeer ik het niet zo dat het heel goed kan schaken, maar programmeer ik het zodat het goed kan leren, en zodat het de regels van schaken weet. Daardoor start het uit als een beginner, zoals een mens. Maar, het leert van elke potje schaken dat je speelt, en wordt beter. Als ik dat nog een keer doe, maar ik programmeer ik het zo dat het heel goed kan schaken, en niet het zodat het kan leren, is het geen AI meer. Dan is het maar een programma die instructies volgt. 
+AI's zijn lerende programma's. ze kunnen schaken, dammen, maar... hoe? AIs moeten kunnen leren, dus laten we zeggen dat ik een AI maak die kan schaken. Als ik dat doe programmeer ik het niet zo dat het heel goed kan schaken, maar programmeer ik het zodat het goed kan leren, en zodat het de regels van schaken weet. Daardoor start het uit als een beginner, zoals een mens. Maar het leert van elke potje schaken dat je speelt, en wordt beter. Als ik dat nog een keer doe, maar ik programmeer ik het zo dat het heel goed kan schaken, en niet het zodat het kan leren, is het geen AI meer. Dan is het maar een programma die instructies volgt. 
 
-   ...Maar kan een programma denken? AI staat voor Artificiële Intelligentie, ook Kunstmatige Intelligentie genoemd. Maar is een compiter intelligent? Daarvoor is de Turing Test, waarin persoon nummer 1 en de AI antwoorden geven op vragen gesteld door persoon nummer 2. Persoon 2 weet niet van wie welke atwoorden zijn, en moet raden. Als persoon 2 niet weet welke antwoorden van de machine comen, kan de AI denken. veel mensen denken dat dit niet zou werken, omdat als een computer beantword zoals een mens zonder te snappen wat het doet, dan is het toch niet aan het denken? Nu is er noch geen antwoord tot de vraag "kunnen AIs denken", maar ik denk dat eventueel mens tot een conclusie komt, misschien wordt dat conclusie dat er geen goede antwoord is, maar, wat denk jij?
+   ...Maar kan een programma denken? AI staat voor Artificiële Intelligentie, ook Kunstmatige Intelligentie genoemd. Maar is een computer intelligent? Daarvoor is de Turing Test, waarin persoon nummer 1 en de AI antwoorden geven op vragen gesteld door persoon nummer 2. Persoon 2 weet niet van wie welke atwoorden zijn, en moet raden. Als persoon 2 niet weet welke antwoorden van de machine comen, kan de AI denken. veel mensen denken dat dit niet zou werken, omdat als een computer beantword zoals een mens zonder te snappen wat het doet, dan is het toch niet aan het denken? Nu is er noch geen antwoord tot de vraag "kunnen AI's denken?", maar ik denk dat eventueel mens tot een conclusie komt, misschien wordt dat conclusie dat er geen goede antwoord is, maar wat denk jij?
 
 
 
@@ -72,8 +72,8 @@ ja, dat is waar, en als je `annuleren` klikt bedoelt dat nee, dat is niet waar. 
 `(:`.
  Door `: alert("DAT IS HET WEL!!!!!!")` zeg jij dat als iemand `annuleren` klikt zegt de computer 
 `DAT IS HET WEL!!!!!!`
-klik nu enter. 😃 [^10]. Deze stuk code (of iets daar dichtbij) zie je vaak op websites waar jij moet zelf moet opslaan als jij het tab probeer dicht te doen en 
-dan zie je "_als u deze tab dichtdoet dan verliest u alles wat niet opgeslagen is._" en dan heb jij alweer annuleren en ok maar ze menen andere dingen.
+klik nu enter. 😃 [^10]. dit stuk code (of iets daar dichtbij) zie je vaak op websites waar jij moet zelf moet opslaan. als jij de tab probeer dicht te doen en 
+dan zie je "_als u deze tab dichtdoet dan verliest u alles wat niet opgeslagen is._" en dan heb jij alweer annuleren en ok maar ze bedoelen andere dingen.
 
 ## Bronnen
 
@@ -83,7 +83,4 @@ dan zie je "_als u deze tab dichtdoet dan verliest u alles wat niet opgeslagen i
 
 
 [^3]: _machinetaal is de enen en nullen die een computer direct verstaat_
-[^1]: _Mnemonic betekent:  (volgens [wikipedia](https://nl.wikipedia.org/wiki/Mnemonic)): Het Engelse woord mnemonic (meervoud: mnemonics) wordt voor diverse 
-geheugensteuntjes gebruikt die gangbaar zijn binnen de mnemotechniek. Zo wordt het woord in de informatica gebruikt voor een woord of symbool dat dient ter 
-vervanging van een binaire instructie. Het wordt vooral gebruikt om het programmeren in assembly makkelijker te maken._
 [^10]: _Vond jij het leuk om te programmeren? Als je het leuk vond kun je het thuis op een computer doen, met een beetje hulp van je volwassen!_
