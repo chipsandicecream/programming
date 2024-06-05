@@ -28,6 +28,15 @@ ze een mot! toen ze het eruit haalde merkte grace dat ze de computer aan het deb
   > FIRST AI!!@!@!@!
 
 
+```mermaid
+graph TD;
+     1725 Basile Bouchon maakte een machine die patronen maakte door spcefieke gaten in papier-->  1801 Joseph Jacques maakte een machine die met ponskaarten patronen op een weefgetouw kon maken.;
+     1801 Joseph Jacques maakte een machine die met ponskaarten patronen op een weefgetouw kon maken.--> 1834 Het Analytical Machine, een machine die programmeren en computers van nu heel erg beϊnvloedde.;
+     1834 Het Analytical Machine, een machine die programmeren en computers van nu heel erg beϊnvloedde.--> 1952 De Compiler, dat vertaalt hogere programeertalen naar machinetaal. Daardoor kun je iets ook op een andere computer doen.;
+    1952 De Compiler, dat vertaalt hogere programeertalen naar machinetaal. Daardoor kun je iets ook op een andere computer doen.--> 1959 COBOL, een van de eerste programmeertalen die op meerdere merken computers werd gebruikt.;
+ 1959 COBOL, een van de eerste programmeertalen die op meerdere merken computers werd gebruikt.--> 1989 World Wide Web (WWW), Tim Berners-Lee maakte de WWW zo dat mensen webpagina's (websites) met elkaar kon delen.
+```
+
  
 ![ Ada Lovelace](https://emprendedor.com/wp-content/uploads/2022/12/ada-lovelace.jpg)
 ![ machinetaal ](https://live.staticflickr.com/572/20607150556_c01d092437_b.jpg)
