@@ -66,9 +66,10 @@ ja, dat is waar, en als je `annuleren` klikt bedoelt dat nee, dat is niet waar. 
 klik nu enter. 😃 [^10]. Deze stuk code (of iets daar dichtbij) zie je vaak op websites waar jij moet zelf moet opslaan als jij het tab probeer dicht te doen en 
 dan zie je "_als u deze tab dichtdoet dan verliest u alles wat niet opgeslagen is._" en dan heb jij alweer annuleren en ok maar ze menen andere dingen.
 
+## Bronnen
 
-
-
+- good night rebel girls 1 & 2
+- wikipedia
 
 
 
