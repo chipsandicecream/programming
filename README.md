@@ -10,17 +10,17 @@ Om iets te programmeren moet je ***heeeeeeel***    specifiek zijn met wat je sch
 
 # geschiedenis van programmeren
 
-Sommige mensen vinden dat Ada Lovelace het eerste programmeur was, maaar sommige niet, omdat zij direct in machinetaal[^3] schreef, en niet in een hogere 
-programmeertaal. Het is heel moeilijk om in machinetaal te schrijven, daarom hebben mensen hogere programmertalen gemaakt.Hogere programeertalen zijn programeertalen die dichterbij menselijke denken zijn. En lagere programeertalen zijn programeertalen die dichterbij hoe een computer werkt zijn.
+Sommige mensen vinden dat Ada Lovelace het eerste programmeur was, maar sommige niet, omdat zij direct in machinetaal[^3] schreef, en niet in een hogere 
+programmeertaal. Het is heel moeilijk om in machinetaal te schrijven, daarom hebben mensen hogere programmertalen gemaakt. Hogere programeertalen zijn programeertalen die dichterbij menselijke denken zijn. En lagere programeertalen zijn programeertalen die dichterbij hoe een computer werkt zijn.
 Een van de eerste hogere programmeertalen was Plankalkül. Die in 1946 ontwikkeld werd door de Duitser Konrad Zuse. Nog iemand wie heel intressant was in het 
-geschidenis van programmeren is _grace hopper_, zij heeft namelijk de **compiler** uitgevonden in 1951. Dat vertaalt hogere programmeertalen naar machinetaal.
+geschidenis van programmeren is _Grace Hopper_, zij heeft namelijk de **compiler** uitgevonden in 1951. Dat vertaalt hogere programmeertalen naar machinetaal.
 
 ### een tijdlijn van programmeren geschiedenis
 
 - 1725 Basile Bouchon maakte een machine die patronen maakte door spcefieke gaten in papier
 - 1801 Joseph Jacques maakte een machine die met ponskaarten patronen op een weefgetouw kon maken.
 - 1834 Het Analytical Machine, een machine die programmeren en computers van nu heel erg beϊnvloedde.
-- 1952 De Compiler, dat vertaalt hogere programeertalen naar machinetaal. Daardoor kun je iets ook op een andere computer doen.
+- 1952 De Compiler, dat vertaalt hogere programeertalen naar machinetaal. Daardoor kun je iets ook op een andere computer doen, omdat machinetaal is anders op elke computer.
 - 1959 COBOL, een van de eerste programmeertalen die op meerdere merken computers werd gebruikt.
 - 1989 World Wide Web (WWW), Tim Berners-Lee maakte de WWW zo dat mensen webpagina's (websites) met elkaar kon delen.
  
