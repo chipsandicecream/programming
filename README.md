@@ -35,6 +35,9 @@ geschidenis van programmeren is _Grace Hopper_, zij heeft namelijk de **compiler
 ![ machinetaal ](https://live.staticflickr.com/572/20607150556_c01d092437_b.jpg)
 
 
+
+
+
 # Grace Hopper
 December 9 1906 - januari 1 1992
 
@@ -78,6 +81,10 @@ ja, dat is waar, en als je `annuleren` klikt bedoelt dat nee, dat is niet waar. 
 `DAT IS HET WEL!!!!!!`
 klik nu enter. 😃 [^10]. dit stuk code (of iets daar dichtbij) zie je vaak op websites waar jij moet zelf moet opslaan. als jij de tab probeer dicht te doen en 
 dan zie je "_als u deze tab dichtdoet dan verliest u alles wat niet opgeslagen is._" en dan heb jij alweer annuleren en ok maar ze bedoelen andere dingen.
+
+
+
+
 
 ## Bronnen
 
