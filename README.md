@@ -49,7 +49,7 @@ maken. Ze werd in December 15, 1983 een admiraal. Bij
 het werk van Grace bij het Mark II, een oude computer, merkte de team waarin ze werkte dat het computer hele voute antwoorden aan het geven was en gingen erin kijken, en opeens zagen ze een mot! Toen ze het eruit haalde merkte Grace dat ze de computer aan het debuggen waren.
 
 <p float="left">
-<img src="https://www.thoughtco.com/thmb/_do7pyKos10WYy7bfigMzGEula4=/1500x1201/filters:fill(auto,1)/GettyImages-107636032-5c76d38846e0fb0001a5ef90.jpg" width="500" />
+<img src="https://www.thoughtco.com/thmb/_do7pyKos10WYy7bfigMzGEula4=/1500x1201/filters:fill(auto,1)/GettyImages-107636032-5c76d38846e0fb0001a5ef90.jpg" width="460" />
  
 <img src="https://cdn.britannica.com/94/149294-050-1BDE70C7/Grace-Hopper-1984.jpg" width="400" />
 </p>
