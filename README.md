@@ -28,12 +28,11 @@ geschidenis van programmeren is _Grace Hopper_, zij heeft namelijk de **compiler
 
 
 
-
-<img src="https://emprendedor.com/wp-content/uploads/2022/12/ada-lovelace.jpg" width="200" />
+<p float="left">
+<img src="https://emprendedor.com/wp-content/uploads/2022/12/ada-lovelace.jpg" width="350" />
  
-
-![ machinetaal ](https://live.staticflickr.com/572/20607150556_c01d092437_b.jpg)
-
+<img src="https://live.staticflickr.com/572/20607150556_c01d092437_b.jpg" width="400" />
+</p>
 
 
 
@@ -49,9 +48,12 @@ In 1949 heeft ze het eerste computer dat op het markt was gemaakt, de UNIVAC I. 
 maken. Ze werd in December 15, 1983 een admiraal. Bij 
 het werk van Grace bij het Mark II, een oude computer, merkte de team waarin ze werkte dat het computer hele voute antwoorden aan het geven was en gingen erin kijken, en opeens zagen ze een mot! Toen ze het eruit haalde merkte Grace dat ze de computer aan het debuggen waren.
 
+<p float="left">
+<img src="https://www.thoughtco.com/thmb/_do7pyKos10WYy7bfigMzGEula4=/1500x1201/filters:fill(auto,1)/GettyImages-107636032-5c76d38846e0fb0001a5ef90.jpg" width="500" />
+ 
+<img src="https://cdn.britannica.com/94/149294-050-1BDE70C7/Grace-Hopper-1984.jpg" width="400" />
+</p>
 
-![ Grace hopper ](https://cdn.britannica.com/94/149294-050-1BDE70C7/Grace-Hopper-1984.jpg)
-![ mark I](https://www.thoughtco.com/thmb/_do7pyKos10WYy7bfigMzGEula4=/1500x1201/filters:fill(auto,1)/GettyImages-107636032-5c76d38846e0fb0001a5ef90.jpg)
 
 # AI 
 wat zijn AI's?
