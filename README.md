@@ -29,9 +29,9 @@ geschidenis van programmeren is _Grace Hopper_, zij heeft namelijk de **compiler
 
 
 
-
+<img src="https://emprendedor.com/wp-content/uploads/2022/12/ada-lovelace.jpg" width="200" />
  
-![ Ada Lovelace](https://emprendedor.com/wp-content/uploads/2022/12/ada-lovelace.jpg)
+
 ![ machinetaal ](https://live.staticflickr.com/572/20607150556_c01d092437_b.jpg)
 
 
